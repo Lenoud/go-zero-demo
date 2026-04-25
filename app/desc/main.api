@@ -1,0 +1,10 @@
+syntax = "v2"
+
+info (
+	title:   "demo"
+	desc:    "demo main"
+	author:  "liubiao"
+	version: "v1.0.0"
+)
+
+import "user.api"
